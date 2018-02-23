@@ -1,1 +1,3 @@
-# CRUD example using React, Redux and React-Router
+### React and React-Router
+
+Playing with react and react-router
