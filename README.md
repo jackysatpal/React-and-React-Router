@@ -1,3 +1,3 @@
 ### React and React-Router
 
-Playing with react and react-router
+Create, Read and Delete posts on the backend server using react, redux and react-router
